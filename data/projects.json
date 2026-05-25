@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "UIKIT-ANDROID": "/Users/admin/Ashfaq/Android/Android Workspace 2/uikit-android",
+    "CHAT-SDK-ANDROID": "/Users/admin/Ashfaq/Android/V5-Android/chat-sdk-android",
+    "PORTFOLIO": "/Users/admin/Personal/ai-engineer-journey",
+    "OCCASI": "/users/admin/personal/occasi",
+    "ANDROID WORKSPACE": "/Users/admin/Ashfaq/Android/V5-Android",
+    "DISCORD BOT": "/Users/admin/Personal/Bots/discord-bot"
+  },
+  "active": "PORTFOLIO",
+  "cwd": "/Users/admin/Ashfaq/Android/V5-Android"
+}

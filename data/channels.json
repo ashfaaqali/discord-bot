@@ -1,0 +1,98 @@
+{
+  "1507800470348103805": {
+    "project": "OCCASI",
+    "type": "chat"
+  },
+  "1507800473204162601": {
+    "project": "OCCASI",
+    "type": "terminal"
+  },
+  "1507800478317150428": {
+    "project": "OCCASI",
+    "type": "approvals"
+  },
+  "1507840805581095013": {
+    "project": "UIKIT-ANDROID",
+    "type": "chat"
+  },
+  "1507840807523319989": {
+    "project": "UIKIT-ANDROID",
+    "type": "terminal"
+  },
+  "1507840809272344729": {
+    "project": "UIKIT-ANDROID",
+    "type": "approvals"
+  },
+  "1507843702360637673": {
+    "project": "PORTFOLIO",
+    "type": "chat"
+  },
+  "1507843704440885308": {
+    "project": "PORTFOLIO",
+    "type": "terminal"
+  },
+  "1507843706240368791": {
+    "project": "PORTFOLIO",
+    "type": "approvals"
+  },
+  "1507846093684215818": {
+    "project": "ANDROID WORKSPACE",
+    "type": "chat"
+  },
+  "1507846095517253825": {
+    "project": "ANDROID WORKSPACE",
+    "type": "terminal"
+  },
+  "1507846097635377276": {
+    "project": "ANDROID WORKSPACE",
+    "type": "approvals"
+  },
+  "1507954281930555415": {
+    "project": "CHAT-SDK-ANDROID",
+    "type": "chat"
+  },
+  "1507954284375965787": {
+    "project": "CHAT-SDK-ANDROID",
+    "type": "terminal"
+  },
+  "1507954286837891082": {
+    "project": "CHAT-SDK-ANDROID",
+    "type": "approvals"
+  },
+  "1508039617570537556": {
+    "project": "DISCORD BOT",
+    "type": "chat"
+  },
+  "1508039619608838245": {
+    "project": "DISCORD BOT",
+    "type": "terminal"
+  },
+  "1508039622570016948": {
+    "project": "DISCORD BOT",
+    "type": "approvals"
+  },
+  "1508053239797518466": {
+    "project": "OCCASI",
+    "type": "files"
+  },
+  "1508068779488186498": {
+    "project": "UIKIT-ANDROID",
+    "type": "files"
+  },
+  "1508068890398425100": {
+    "project": "PORTFOLIO",
+    "type": "files"
+  },
+  "1508068945301868624": {
+    "project": "ANDROID WORKSPACE",
+    "type": "files"
+  },
+  "1508069017850613812": {
+    "project": "CHAT-SDK-ANDROID",
+    "type": "files"
+  },
+  "1508069131642077195": {
+    "project": "DISCORD BOT",
+    "type": "files"
+  }
+}

@@ -2,6 +2,5 @@
 .env
 __pycache__/
 *.pyc
-data/
 bot.log
 bot.pid
